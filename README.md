@@ -141,7 +141,7 @@ Si vous ne voyez pas votre transaction, assurez-vous que vous êtes connecté au
 Pour finir cette partie, vous allez transférer quelques jetons à vos voisins.
 Ne mettez pas trop de jetons, quelque chose comme 0.001 est très bien.
 
-1. Demandez à vos voisins leur adresse privée de leur portefeuille
+1. Demandez à vos voisins leur adresse publique de leur portefeuille
   - Assurez-vous qu'ils ne vous la donnent pas! Sinon, vous pouvez créer un
   nouveau portefeuille et transférer tous leurs jetons chez vous!
 2. Demandez à vos voisins leur adresse publique de leur portefeuille.
