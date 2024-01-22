@@ -1,2 +1,2 @@
 eth-brownie==1.19.3
-Pillow==10.1.0
+Pillow==10.2.0
